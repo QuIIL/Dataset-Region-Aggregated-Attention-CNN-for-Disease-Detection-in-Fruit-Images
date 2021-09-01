@@ -37,9 +37,9 @@
           This folder contains the images of apples which have symptoms of anthracnose.
         </p>
         <p align="center">
-          <img src="Images/IMG_0921.JPG" width=150>
-          <img src="Images/DSCN4596.JPG" width=150>
-          <img src="Images/IMG_0925.JPG" width=150>
+          <img src="Images/IMG_0921.JPG" width=200>
+          <img src="Images/DSCN4596.JPG" width=200>
+          <img src="Images/IMG_0925.JPG" width=200>
         </p>
     </li>
     <li>
@@ -49,7 +49,12 @@
         </p>
     <li>
         <strong>Labels_xml</strong>
-
+        <p>
+          Each XML file contains bounding box annotation.
+          <ul>
+            <li>The bounding box is specified in the XML files as integer (xmin, ymin) and (xmax, ymax) to image size</li>
+          </ul>
+        </p>
     </li>
 
 
