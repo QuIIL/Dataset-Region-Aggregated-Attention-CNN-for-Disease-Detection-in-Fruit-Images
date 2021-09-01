@@ -36,15 +36,15 @@
         <p>
           This folder contains the images of apples which have symptoms of anthracnose.
 
-          <div style="width: 30%; height:150px; float: left;">
-          <img src="Images/DSCN4595.JPG">
-          </div>
-          <div style="width: 65%; height:150px; float: right;">
-          <img src="Images/IMG_0922.JPG">
-          </div>
-          <div style="width: 65%; height:150px; float: right;">
-          <img src="Images/IMG_0921.JPG">
-          </div>
+        <div style="width: 30%; height:150px; float: left;">
+        <img src="Images/DSCN4595.JPG">
+        </div>
+        <div style="width: 65%; height:150px; float: right;">
+        <img src="Images/IMG_0922.JPG">
+        </div>
+        <div style="width: 65%; height:150px; float: right;">
+        <img src="Images/IMG_0921.JPG">
+        </div>
         </p>
     </li>
     <li>
