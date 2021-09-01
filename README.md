@@ -28,7 +28,7 @@
 
 
 <!--PAIP2020 challenge-->
-## Images
+## Contents
 
 <ul>
     <li>
