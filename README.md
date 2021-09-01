@@ -37,9 +37,9 @@
           This folder contains the images of apples which have symptoms of anthracnose.
         </p>
         <p align="center">
-          <img src="Images/IMG_0921.JPG" width=20%>
-          <img src="Images/DSCN4596.JPG" width=20%>
-          <img src="Images/IMG_0925.JPG" width=20%>
+          <img src="Images/IMG_0921.JPG" width=30%>
+          <img src="Images/DSCN4596.JPG" width=30%>
+          <img src="Images/IMG_0925.JPG" width=30%>
         </p>
     </li>
     <li>
