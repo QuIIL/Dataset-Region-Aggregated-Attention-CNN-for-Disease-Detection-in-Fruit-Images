@@ -38,7 +38,7 @@
         </p>
         <p align="center">
           <img src="Images/IMG_0921.JPG" width=150>
-          <img src="Images/IMG_0920.JPG" width=150>
+          <img src="Images/DSCN4596.JPG" width=150>
           <img src="Images/IMG_0925.JPG" width=150>
         </p>
     </li>
