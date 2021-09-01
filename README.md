@@ -45,14 +45,14 @@
     <li>
         <strong>Labels_mask</strong></li>
         <p>
-          This folder contains labeled masks for anthracnose. The value of mask means the instance number. 
+          This folder contains labeled masks for anthracnose. The value of mask means the instance number.
         </p>
     <li>
         <strong>Labels_xml</strong>
         <p>
           Each XML file contains bounding box annotation.
           <ul>
-            <li>The bounding box is specified in the XML files as integer (xmin, ymin) and (xmax, ymax) from the upper left conrer of the image</li>
+            <li>The bounding box is specified in the XML files as integer (xmin, ymin) and (xmax, ymax) from the upper left corner of the image</li>
           </ul>
         </p>
     </li>
