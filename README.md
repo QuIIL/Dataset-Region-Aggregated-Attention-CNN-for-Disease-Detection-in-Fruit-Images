@@ -38,6 +38,8 @@
         </p>
         <p align="center">
           <img src="Images/IMG_0921.JPG" width=150>
+          <img src="Images/IMG_0921.JPG" width=150>
+          <img src="Images/IMG_0921.JPG" width=150>
         </p>
     </li>
     <li>
