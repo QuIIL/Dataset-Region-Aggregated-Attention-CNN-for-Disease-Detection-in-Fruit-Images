@@ -45,7 +45,7 @@
     <li>
         <strong>Labels_mask</strong></li>
         <p>
-          Each mask file contains the instances of bounding boxes.
+          This folder contains labeled masks for anthracnose. The value of mask means the instance number. 
         </p>
     <li>
         <strong>Labels_xml</strong>
