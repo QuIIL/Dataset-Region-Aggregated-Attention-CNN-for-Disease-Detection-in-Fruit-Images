@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MIPAV VOI file -->
+<VOI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Unique-ID>1148587998</Unique-ID>
+	<Curve-type>0</Curve-type>
+	<Color>255,255,0,0</Color>
+	<Thickness>1</Thickness>
+	<Contour>
+		<Slice-number>0</Slice-number>
+		<Pt>694.0,388.0</Pt>
+		<Pt>1464.0,388.0</Pt>
+		<Pt>1464.0,1276.0</Pt>
+		<Pt>694.0,1276.0</Pt>
+	</Contour>
+	<Contour>
+		<Slice-number>0</Slice-number>
+		<Pt>934.0,82.0</Pt>
+		<Pt>1120.0,82.0</Pt>
+		<Pt>1120.0,264.0</Pt>
+		<Pt>934.0,264.0</Pt>
+	</Contour>
+	<Contour>
+		<Slice-number>0</Slice-number>
+		<Pt>1914.0,112.0</Pt>
+		<Pt>2118.0,112.0</Pt>
+		<Pt>2118.0,336.0</Pt>
+		<Pt>1914.0,336.0</Pt>
+	</Contour>
+	<Contour>
+		<Slice-number>0</Slice-number>
+		<Pt>2116.0,38.0</Pt>
+		<Pt>2272.0,38.0</Pt>
+		<Pt>2272.0,364.0</Pt>
+		<Pt>2116.0,364.0</Pt>
+	</Contour>
+	<Contour>
+		<Slice-number>0</Slice-number>
+		<Pt>1404.0,30.0</Pt>
+		<Pt>2228.0,30.0</Pt>
+		<Pt>2228.0,1100.0</Pt>
+		<Pt>1404.0,1100.0</Pt>
+	</Contour>
+</VOI>

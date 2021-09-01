@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MIPAV VOI file -->
+<VOI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Unique-ID>1836852469</Unique-ID>
+	<Curve-type>0</Curve-type>
+	<Color>255,255,0,0</Color>
+	<Thickness>1</Thickness>
+	<Contour>
+		<Slice-number>0</Slice-number>
+		<Pt>742.0,172.0</Pt>
+		<Pt>1182.0,172.0</Pt>
+		<Pt>1182.0,648.0</Pt>
+		<Pt>742.0,648.0</Pt>
+	</Contour>
+</VOI>
