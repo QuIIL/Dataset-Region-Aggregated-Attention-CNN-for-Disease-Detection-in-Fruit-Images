@@ -2,11 +2,11 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-    <h3 align="center">PAIP2020</h3>
+    <h3 align="center">Dataset: Region Aggregated Attention CNN for Disease Detection in Fruit Images</h3>
     <p align="center">
-        PAIP2020 is the second challenge organized by the Pathology AI Platform (PAIP) <br>and the Seoul National University Hospital (SNUH).
+    75 images of apple fruits were employed to evaluate the performance of the proposed network. A majority of the apples are infected with a disease called Anthracnose. The symptom of the disease generally appears rounded with varying sizes and shows visible variations of patterns within the disease. An experienced expert annotated the region of such rounded symptoms on apple fruits with bounding boxes, serving as ground-truth labels for this study. The total number of the bounding boxes is 182, ranging from 1 to 9 per image. The size of apple images ranges from 500x700 to 3000x2000 and the size of disease symptoms ranges from 50x50 to 2000x1400.
     <br>
-        <a href="https://paip2020.grand-challenge.org"><strong>PAIP2020 homepage</strong></a>
+        <a href="https://paip2020.grand-challenge.org"><strong></strong></a>
     </p>      
 </p>
 
